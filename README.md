@@ -57,5 +57,3 @@ To ensure stability for the ICA algorithm, the raw signals undergo:
 
 ---
 
-ing raw EDF data
-└── README.md           # Project documentation
